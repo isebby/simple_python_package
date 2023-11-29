@@ -3,12 +3,12 @@
 from setuptools import setup
 
 
-setup(name='my_pkg',
+setup(name='jumping_man',
       version='0.0.1',
-      description='Minimal example python package',
-      author='Adam Spannbauer',
-      author_email='spannbaueradam@gmail.com',
-      url='https://github.com/AdamSpannbauer/minimal_python_package',
+      description='Package shows small jumping man',
+      author='Ian Sebby',
+      author_email='iansebby4@gmail.com',
+      url='https://github.com/isebby/simple_python_package',
       packages=['my_pkg'],
       license='MIT',
       )
